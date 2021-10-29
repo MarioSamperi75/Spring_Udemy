@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Aug 10 22:52:41 CEST 2021
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\mario\\Javamapp\\12\ Mario\\SpringBootUdemy\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE.jar=WEB-INF/lib/spring-web-5.2.9.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\mario\\Javamapp\\12\ Mario\\SpringBootUdemy\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.2.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.9.RELEASE-sources.jar
