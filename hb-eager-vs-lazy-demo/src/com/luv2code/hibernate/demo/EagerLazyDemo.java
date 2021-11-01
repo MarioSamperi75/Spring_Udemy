@@ -42,6 +42,15 @@ public class EagerLazyDemo {
 			//commit transaction
 			session.getTransaction().commit();
 			
+			//close the session
+			session.close();
+			
+			
+			// get course for the instructor efter closing session
+			// how to solve lazy loadig issue? how to retrieve courses when the session is closed?
+			//option1: retrieve when the session is open. Course will be in the memory and you will get again and again.
+			System.out.println("luvToCode: Courses: " + tempInstructor.getCourses()); 
+			
 			
 			System.out.println("luvToCode:  Done!!");
 			
