@@ -9,7 +9,7 @@ SET FOREIGN_KEY_CHECKS = 0;
 DROP TABLE IF EXISTS `instructor_detail`;
 
 CREATE TABLE `instructor_detail` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int NOT NULL AUTO_INCREMENT,
   `youtube_channel` varchar(128) DEFAULT NULL,
   `hobby` varchar(45) DEFAULT NULL,
   PRIMARY KEY (`id`)
@@ -19,11 +19,11 @@ CREATE TABLE `instructor_detail` (
 DROP TABLE IF EXISTS `instructor`;
 
 CREATE TABLE `instructor` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int NOT NULL AUTO_INCREMENT,
   `first_name` varchar(45) DEFAULT NULL,
   `last_name` varchar(45) DEFAULT NULL,
   `email` varchar(45) DEFAULT NULL,
-  `instructor_detail_id` int(11) DEFAULT NULL,
+  `instructor_detail_id` int DEFAULT NULL,
   PRIMARY KEY (`id`),
   KEY `FK_DETAIL_idx` (`instructor_detail_id`),
   CONSTRAINT `FK_DETAIL` FOREIGN KEY (`instructor_detail_id`) 
@@ -33,9 +33,9 @@ CREATE TABLE `instructor` (
 DROP TABLE IF EXISTS `course`;
 
 CREATE TABLE `course` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int NOT NULL AUTO_INCREMENT,
   `title` varchar(128) DEFAULT NULL,
-  `instructor_id` int(11) DEFAULT NULL,
+  `instructor_id` int DEFAULT NULL,
   
   PRIMARY KEY (`id`),
   
@@ -54,9 +54,9 @@ CREATE TABLE `course` (
 DROP TABLE IF EXISTS `review`;
 
 CREATE TABLE `review` (
-  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `id` int NOT NULL AUTO_INCREMENT,
   `comment` varchar(256) DEFAULT NULL,
-  `course_id` int(11) DEFAULT NULL,
+  `course_id` int DEFAULT NULL,
 
   PRIMARY KEY (`id`),
 
