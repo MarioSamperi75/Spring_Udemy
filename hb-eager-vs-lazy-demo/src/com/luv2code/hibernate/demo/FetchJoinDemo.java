@@ -3,13 +3,14 @@ package com.luv2code.hibernate.demo;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
+import org.hibernate.query.Query;
 
 import com.luv2code.hibernate.demo.entity.Course;
 import com.luv2code.hibernate.demo.entity.Instructor;
 import com.luv2code.hibernate.demo.entity.InstructorDetail;
 import com.luv2code.hibernate.demo.entity.Student;
 
-public class EagerLazyDemo {
+public class FetchJoinDemo {
 
 	public static void main(String[] args) {
 		
@@ -29,15 +30,25 @@ public class EagerLazyDemo {
 			//start a transaction
 			session.beginTransaction();
 			
+			//option 2: Hibernate query with HQL
+			
 			
 			// get the instructor from the DB
 			int theId = 1;
-			Instructor tempInstructor = session.get(Instructor.class, theId);
+			
+			Query<Instructor> query = 
+					session.createQuery("select i from Instructor i "
+									+ "JOIN FETCH i.courses "
+									+ "where i.id=:theInstructorId", 
+							Instructor.class);
+			
+			//set parameters on query
+			query.setParameter("theInstructorId", theId);
+			
+			//execute query and get instructor
+			Instructor tempInstructor = query.getSingleResult();
 			
 			System.out.println("luvToCode: Instructor: " + tempInstructor);
-			
-			// get course for the instructor
-			System.out.println("luvToCode: Courses: " + tempInstructor.getCourses()); 
 			
 			//commit transaction
 			session.getTransaction().commit();
@@ -48,9 +59,9 @@ public class EagerLazyDemo {
 			
 			// get course for the instructor efter closing session
 			// how to solve lazy loadig issue? how to retrieve courses when the session is closed?
-			//option1: retrieve when the session is open. Course will be in the memory and you will get again and again.
 			
-			System.out.println("\nluvToCode: The session is now closed\n" + tempInstructor);
+			
+			System.out.println("\nluvToCode: The session is now closed\n");
 			
 			System.out.println("luvToCode: Courses: " + tempInstructor.getCourses()); 
 			
