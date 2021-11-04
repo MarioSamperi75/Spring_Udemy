@@ -6918,3 +6918,78 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.jst.server.tomcat.core 4 0 2021-11-04 10:10:01.193
 !MESSAGE Port 8080 required by Tomcat v9.0 Server at localhost is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:00:28.351
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:00:28.352
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:00:28.354
+!MESSAGE buffering callback sts4.classpath.lceXGgto web-customer-tracker false 37
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:00:28.355
+!MESSAGE executing callback sts4.classpath.lceXGgto 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:00:28.378
+!MESSAGE executing callback sts4.classpath.lceXGgto SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:14:02.703
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:14:02.704
+!MESSAGE classpath=100 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:14:02.712
+!MESSAGE buffering callback sts4.classpath.lceXGgto web-customer-tracker false 100
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:14:02.712
+!MESSAGE executing callback sts4.classpath.lceXGgto 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:14:02.740
+!MESSAGE executing callback sts4.classpath.lceXGgto SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:16:35.782
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:16:35.784
+!MESSAGE classpath=117 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:16:35.794
+!MESSAGE buffering callback sts4.classpath.lceXGgto web-customer-tracker false 117
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:16:35.795
+!MESSAGE executing callback sts4.classpath.lceXGgto 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:16:35.827
+!MESSAGE executing callback sts4.classpath.lceXGgto SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:17:14.948
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:17:14.949
+!MESSAGE classpath=120 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:17:14.957
+!MESSAGE buffering callback sts4.classpath.lceXGgto web-customer-tracker false 120
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:17:14.957
+!MESSAGE executing callback sts4.classpath.lceXGgto 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:17:14.988
+!MESSAGE executing callback sts4.classpath.lceXGgto SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:26:16.069
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:26:16.070
+!MESSAGE classpath=124 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:26:16.078
+!MESSAGE buffering callback sts4.classpath.lceXGgto web-customer-tracker false 124
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:26:16.079
+!MESSAGE executing callback sts4.classpath.lceXGgto 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-04 11:26:16.100
+!MESSAGE executing callback sts4.classpath.lceXGgto SUCCESS [done]
