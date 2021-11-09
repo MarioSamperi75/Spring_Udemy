@@ -7491,3 +7491,169 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 12:43:08.508
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.eQZcCEQr => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:49.673
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:49.674
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@581a0bf[org.springframework.tooling.boot.ls:1.21.0.202009020949(id=981)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:49.676
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.710
+!MESSAGE Boot LS startup time from start to initialized: 5030ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.806
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BCIFrRGPisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.808
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.812
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.814
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.816
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.819
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.821
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.823
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.BCIFrRGP => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.825
+!MESSAGE classpath=124 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.851
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP web-customer-tracker false 124
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.854
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.857
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.861
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP hb-01-one-to-one-uni false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.863
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.865
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.870
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP hb-02-one-to-one-bi false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.875
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.877
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.880
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP hb-03-one-to-many false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.882
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.885
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.890
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP hb-04-one-to-many-uni false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.892
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.894
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.897
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP hb-05-many-to-many false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.899
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.901
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.904
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP hb-eager-vs-lazy-demo false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.906
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.908
+!MESSAGE classpath=20 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.911
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP hibernate-tutorial false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.913
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.915
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.924
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP spring-demo-annotations false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.925
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.927
+!MESSAGE classpath=65 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.937
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP spring-demo-one false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.939
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.941
+!MESSAGE classpath=107 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.956
+!MESSAGE buffering callback sts4.classpath.BCIFrRGP spring-mvc-demo false 107
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:54.959
+!MESSAGE executing callback sts4.classpath.BCIFrRGP 11 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-09 13:16:55.093
+!MESSAGE executing callback sts4.classpath.BCIFrRGP SUCCESS [done]
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-11-09 13:22:13.650
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-11-09 13:22:13.652
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-11-09 13:22:13.654
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.sse.core 4 4 2021-11-09 13:22:13.867
+!MESSAGE can not get a buffer without a document reference
+!STACK 0
+java.lang.IllegalArgumentException: can not get a buffer without a document reference
+	at org.eclipse.wst.sse.core.internal.FileBufferModelManager.getBuffer(FileBufferModelManager.java:691)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.getModelPath(JSPTranslator.java:3276)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.writeExternal(JSPTranslator.java:3383)
+	at java.base/java.io.ObjectOutputStream.writeExternalData(ObjectOutputStream.java:1471)
+	at java.base/java.io.ObjectOutputStream.writeOrdinaryObject(ObjectOutputStream.java:1442)
+	at java.base/java.io.ObjectOutputStream.writeObject0(ObjectOutputStream.java:1187)
+	at java.base/java.io.ObjectOutputStream.writeObject(ObjectOutputStream.java:353)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslatorPersister.persistTranslator(JSPTranslatorPersister.java:265)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslatorPersister.persistTranslation(JSPTranslatorPersister.java:149)
+	at org.eclipse.jst.jsp.core.internal.java.search.JSPIndexManager.performAction(JSPIndexManager.java:139)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob$1.run(AbstractIndexManager.java:1561)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.wst.sse.core.indexing.AbstractIndexManager$ResourceEventProcessingJob.run(AbstractIndexManager.java:1559)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
