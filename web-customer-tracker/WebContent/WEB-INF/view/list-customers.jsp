@@ -21,7 +21,8 @@
 	</div>
 </div>
 
-<div>
+<div id="container">
+
 	<div id="content">
 	
 		<!-- 	add out html table here -->
