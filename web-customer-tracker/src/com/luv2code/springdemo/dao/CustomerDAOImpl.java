@@ -18,7 +18,7 @@ public class CustomerDAOImpl implements CustomerDAO {
 	
 	// need to inject the session factory
 	 @Autowired
-	 private SessionFactory SessionFactory;
+	 private SessionFactory sessionFactory;
 	
 
 	 // we removed @transactional, because the DAO is involved in the service transaction. 
@@ -27,7 +27,7 @@ public class CustomerDAOImpl implements CustomerDAO {
 	public List<Customer> getCustomers() {
 	
 		// get the current hibernate session
-		Session currentSession = SessionFactory.getCurrentSession();
+		Session currentSession = sessionFactory.getCurrentSession();
 		
 		// create a query ... and sort by lastName
 		Query<Customer> theQuery = currentSession.createQuery("from Customer order by lastName", 
@@ -45,11 +45,23 @@ public class CustomerDAOImpl implements CustomerDAO {
 	@Override
 	public void saveCustomer(Customer theCustomer) {
 		// get the current hibernate session
-		Session currentSession = SessionFactory.getCurrentSession();
+		Session currentSession = sessionFactory.getCurrentSession();
+		 
+		//save or update the customer
+		currentSession.saveOrUpdate(theCustomer);
 		
-		//save the customer
-		currentSession.save(theCustomer);
+	}
+
+
+	@Override
+	public Customer getCustomer(int theId) {
+		// get the current hibernate session
+		Session currentSession = sessionFactory.getCurrentSession();
 		
+		//retrieve/read from the database using the primary key
+		Customer theCustomer= currentSession.get(Customer.class, theId);
+		
+		return theCustomer;
 	}
 
 }
