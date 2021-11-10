@@ -63,7 +63,8 @@
 						<!-- display the update and the delete link -->
 						<a href="${updateLink}">Update</a>
 						|
-						<a href="${deleteLink}">Delete</a>
+						<a 	href="${deleteLink}"
+							onClick="if(!(confirm('Are you sure you want to delete this customer?'))) return false">Delete</a>
 					</td>
 				</tr>
 				
