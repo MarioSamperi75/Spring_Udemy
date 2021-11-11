@@ -25,12 +25,10 @@ public class MyDemoLoggingAspect {
 			// @Before("execution(public * addAccount(com.luv2code.aopdemo.dao.Account))")
 	// matching with all methods in a specific package:
 			// @Before("execution(* com.luv2code.aopdemo.dao.*.*(..))")
+	// matching with a specific argument + 0 to many other parameters!: @Before("execution(* add*(com.luv2code.aopdemo.Account, ..))")
 	
-	
-	// it doesn't work anymore :@Before("execution(* add*(com.luv2code.aopdemo.Account))")
-	
-	// matching with a specific argument + 0 to many other parameters!:
-	@Before("execution(* add*(com.luv2code.aopdemo.Account, ..))")
+	// matching with any parameters
+	@Before("execution(* add*( ..))")
 		public void beforeAddAccountAdvice() {
 		System.out.println("\n=====>> Executing @Before advice on AddAccount()");
 	}
