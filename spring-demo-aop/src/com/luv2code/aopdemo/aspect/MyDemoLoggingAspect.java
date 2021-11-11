@@ -22,14 +22,15 @@ public class MyDemoLoggingAspect {
 	// (*) one argument of any type 
 	// (..) 0 or more arguments of any type
 	// matching with an argument of a specific type (use qualified name):
-			// @Before("execution(public * addAccount(com.luv2code.aopdemo.dao.AccountDAO))")
+			// @Before("execution(public * addAccount(com.luv2code.aopdemo.dao.Account))")
 	// matching with all methods in a specific package:
 			// @Before("execution(* com.luv2code.aopdemo.dao.*.*(..))")
 	
 	
+	// it doesn't work anymore :@Before("execution(* add*(com.luv2code.aopdemo.Account))")
 	
-	// matching with an argument of a specific type (use qualified name):
-	@Before("execution(* add*(com.luv2code.aopdemo.Account))")
+	// matching with a specific argument + 0 to many other parameters!:
+	@Before("execution(* add*(com.luv2code.aopdemo.Account, ..))")
 		public void beforeAddAccountAdvice() {
 		System.out.println("\n=====>> Executing @Before advice on AddAccount()");
 	}

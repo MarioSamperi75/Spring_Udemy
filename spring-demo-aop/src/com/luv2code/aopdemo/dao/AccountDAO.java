@@ -7,7 +7,7 @@ import com.luv2code.aopdemo.Account;
 @Component
 public class AccountDAO {
 
-	public void addAccount(Account thAccount) {
+	public void addAccount(Account thAccount, boolean vipFlag) {
 		
 		System.out.println(getClass() + ": DOING MY DB WORK: ADDING AN ACCOUNT");
 		
