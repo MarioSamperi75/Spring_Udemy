@@ -12,6 +12,8 @@ public class MyDemoLoggingAspect {
 	
 	//let's start with an @Before advice
 	
+	// Pointcut syntax: execution( verifier? returnType class.? methodName(params)  throws?) 
+	// this example matches any addAccount method in any class
 	@Before("execution(public void addAccount())")
 		public void beforeAddAccountAdvice() {
 		System.out.println("\n=====>> Executing @Before advice on AddAccount()");
