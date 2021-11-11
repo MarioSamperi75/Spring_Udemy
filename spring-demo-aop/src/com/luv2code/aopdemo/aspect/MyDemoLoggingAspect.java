@@ -27,6 +27,8 @@ public class MyDemoLoggingAspect {
 			// @Before("execution(* com.luv2code.aopdemo.dao.*.*(..))")
 	
 	
+	
+	// matching with an argument of a specific type (use qualified name):
 	@Before("execution(* add*(com.luv2code.aopdemo.Account))")
 		public void beforeAddAccountAdvice() {
 		System.out.println("\n=====>> Executing @Before advice on AddAccount()");
