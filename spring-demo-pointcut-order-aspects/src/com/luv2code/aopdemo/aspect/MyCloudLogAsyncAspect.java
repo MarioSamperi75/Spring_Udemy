@@ -2,18 +2,14 @@ package com.luv2code.aopdemo.aspect;
 
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
-import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.stereotype.Component;
-
 
 @Aspect
 @Component
-public class MyDemoLoggingAspect {
+public class MyCloudLogAsyncAspect {
 
-	//Apply the  combo pointcut declaration to both advices
 	@Before("com.luv2code.aopdemo.aspect.LuvAopExpressions.forDaoPackageNoGetterSetter()")
-		public void beforeAddAccountAdvice() {
-		System.out.println("\n=====>> Executing @Before advice on AddAccount()");
+	public void logToCloudAsync() {
+	System.out.println("\n=====>> Loggin to Cloud in Async Fashion");
 	}
-  
 }
