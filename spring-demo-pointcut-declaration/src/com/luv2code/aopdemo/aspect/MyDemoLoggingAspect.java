@@ -14,12 +14,15 @@ public class MyDemoLoggingAspect {
 	@Pointcut("execution(* com.luv2code.aopdemo.dao.*.*(..))")
 	private void forDaoPackage() {}
 
-	// Apply pointcut declaration to advice
 	@Before("forDaoPackage()")
 		public void beforeAddAccountAdvice() {
 		System.out.println("\n=====>> Executing @Before advice on AddAccount()");
 	}
 	
-	// all methods are in the package so all methods will print the log!
+	//Apply the pointcut declaration to another advice
+	@Before("forDaoPackage()")
+	public void performApiAnalytics() {
+	System.out.println("\n=====>> Performing API Analytics");
+}
   
 }
