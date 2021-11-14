@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javax.persistence.FetchType"/>
-    <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
-    <fullyQualifiedTypeName name="com.luv2code.hibernate.demo.CreateCoursesAndReviewsDemo"/>
-    <fullyQualifiedTypeName name="com.luv2code.hibernate.demo.entity.Review"/>
-    <fullyQualifiedTypeName name="org.graalvm.compiler.lir.LIRInstruction.Temp"/>
-    <fullyQualifiedTypeName name="org.graalvm.compiler.core.common.type.ArithmeticOpTable.BinaryOp.Add"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="javax.persistence.JoinTable"/>
-    <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
-    <fullyQualifiedTypeName name="javax.persistence.ManyToMany"/>
-    <fullyQualifiedTypeName name="sun.security.action.GetBooleanAction"/>
-    <fullyQualifiedTypeName name="com.luv2code.hibernate.demo.entity.Student"/>
     <fullyQualifiedTypeName name="javax.imageio.plugins.tiff.GeoTIFFTagSet"/>
     <fullyQualifiedTypeName name="com.luv2code.hibernate.demo.entity.Course"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
@@ -35,7 +23,6 @@
     <fullyQualifiedTypeName name="org.hibernate.Session"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
     <fullyQualifiedTypeName name="org.hibernate.annotations.GeneratorType"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
     <fullyQualifiedTypeName name="com.luv2code.springdemo.dao.CustomerDAO"/>
     <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
@@ -43,7 +30,6 @@
     <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
     <fullyQualifiedTypeName name="com.luv2code.springdemo.controller.CustomerController"/>
@@ -57,7 +43,21 @@
     <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
     <fullyQualifiedTypeName name="com.luv2code.aopdemo.DemoConfig"/>
     <fullyQualifiedTypeName name="com.luv2code.aopdemo.dao.AccountDAO"/>
-    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
-    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
     <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Before"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Pointcut"/>
+    <fullyQualifiedTypeName name="jdk.javadoc.internal.doclets.formats.html.AllClassesIndexWriter"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.objects.annotations.Getter"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.Aspect"/>
+    <fullyQualifiedTypeName name="com.luv2code.aopdemo.aspect.LuvAopExpressions"/>
+    <fullyQualifiedTypeName name="org.springframework.core.annotation.Order"/>
+    <fullyQualifiedTypeName name="org.aopalliance.intercept.Joinpoint"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.reflect.MethodSignature"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.annotation.AfterReturning"/>
+    <fullyQualifiedTypeName name="org.aspectj.lang.JoinPoint"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.luv2code.aopdemo.Account"/>
 </qualifiedTypeNameHistroy>
