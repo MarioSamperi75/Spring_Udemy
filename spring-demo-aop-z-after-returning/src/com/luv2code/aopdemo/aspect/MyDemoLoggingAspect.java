@@ -1,5 +1,7 @@
 package com.luv2code.aopdemo.aspect;
 
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.forwardedUrl;
+
 import java.util.List;
 
 import org.aspectj.lang.JoinPoint;
@@ -31,6 +33,26 @@ public class MyDemoLoggingAspect {
 		
 		// print out the results of the method call
 		System.out.println("\n======>result is: " + result);
+		
+		// Let's post-process the data and let's modify it!!
+		
+		// convert the account names to uppercase
+		convertAccountNamesToUpperCase(result);
+		
+		System.out.println("\n======>result is: " + result);
+	}
+
+	private void convertAccountNamesToUpperCase(List<Account> result) {
+		// loop through accounts
+		for(Account tempAccount : result) {
+			
+			// get uppercase version of name	 
+			String theUpperName = tempAccount.getName().toUpperCase();
+			
+			// update the name on the account
+			tempAccount.setName(theUpperName);			
+		}
+		
 	}
 
 	//Apply the  combo pointcut declaration to both advices
