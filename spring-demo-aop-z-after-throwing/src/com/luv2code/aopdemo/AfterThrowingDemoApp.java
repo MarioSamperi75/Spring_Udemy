@@ -24,11 +24,11 @@ public class AfterThrowingDemoApp {
 		try {
 			// add a boolean flag to simulate an exception
 			boolean tripWire = true;
-			theAccountDAO.findAccounts(tripWire);
-		} catch (Exception exc) {
-			// TODO Auto-generated catch block
+			theAccounts = theAccountDAO.findAccounts(tripWire);
 		
-			 
+		} 
+		catch (Exception exc) {
+
 			System.out.println("\nMain Program ... caugh exception: " + exc);
 		}
 		
