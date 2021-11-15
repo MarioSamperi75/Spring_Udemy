@@ -11977,3 +11977,153 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:01:55.789
 !MESSAGE executing callback sts4.classpath.IOxBlZMi SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:29:58.423
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.IOxBlZMi
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:29:58.423
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.IOxBlZMi
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:29:58.424
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:29:58.424
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.IOxBlZMi => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:52.762
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:52.763
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2031cad2[org.springframework.tooling.boot.ls:1.21.0.202009020949(id=981)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:52.763
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.145
+!MESSAGE Boot LS startup time from start to initialized: 1380ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.168
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TMEKCjjLisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.169
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.170
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.170
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.171
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.171
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.172
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.172
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TMEKCjjL => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.172
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.175
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-aop-zz-around-with-logger false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.176
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.177
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.179
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-aop false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.180
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.180
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.183
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-aop-z-after-returning false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.183
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.184
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.186
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-aop-z-after-throwing false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.186
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.187
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.189
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-aop-zz-after-finally false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.190
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.191
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.194
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-aop-zz-around false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.194
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.195
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.197
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-aop-zzz- around-handle-exception false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.198
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.198
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.200
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-pointcut-declaration false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.201
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.201
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.204
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-pointcut-declaration-combo false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.204
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.205
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.207
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-pointcut-order-aspects false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.208
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.209
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.211
+!MESSAGE buffering callback sts4.classpath.TMEKCjjL spring-demo-read-joinpoint false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.211
+!MESSAGE executing callback sts4.classpath.TMEKCjjL 11 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 15:31:54.239
+!MESSAGE executing callback sts4.classpath.TMEKCjjL SUCCESS [done]
