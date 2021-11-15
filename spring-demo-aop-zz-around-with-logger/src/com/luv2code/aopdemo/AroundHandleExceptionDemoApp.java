@@ -30,6 +30,7 @@ public class AroundHandleExceptionDemoApp {
 		
 		
 		boolean tripWire = true;
+		// The main app will never know about  the exception, we handled it in the around advice. CAUTION :)
 		String data = theFortuneService.getFortune(tripWire);
 		
 		myLogger.info("\nMy fortune is: " + data);
