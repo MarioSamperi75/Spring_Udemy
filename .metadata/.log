@@ -156,3 +156,72 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-18 14:35:50.870
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-18 14:56:09.626
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-18 14:56:09.629
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:38.643
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:38.644
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@1f7e6c3a[org.springframework.tooling.boot.ls:1.21.0.202009020949(id=981)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:38.661
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:38.924
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-18 14:56:38.957
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-18 14:56:38.962
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:41.847
+!MESSAGE Boot LS startup time from start to initialized: 3175ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.490
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.agxBhTybisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.493
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.497
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.501
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.505
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.507
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.508
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.510
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.agxBhTyb => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.516
+!MESSAGE classpath=16 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.520
+!MESSAGE buffering callback sts4.classpath.agxBhTyb spring-security-demo-01-base-app false 16
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.522
+!MESSAGE executing callback sts4.classpath.agxBhTyb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-18 14:56:43.567
+!MESSAGE executing callback sts4.classpath.agxBhTyb SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-18 15:30:40.663
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-18 15:30:40.665
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
