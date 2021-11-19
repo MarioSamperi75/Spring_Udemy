@@ -1,19 +1,6 @@
 INDEX VERSION 1.131+C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.jdt.core
-3908977903.index
-3340094374.index
-3670233337.index
-466326975.index
-1894168723.index
-1478860241.index
-1299857748.index
-2063540761.index
+3028503117.index
 2490113795.index
-1262033408.index
-521236994.index
-248612268.index
-327511462.index
-3430713098.index
 2281670709.index
-3289594947.index
 2138320008.index
 2271627155.index

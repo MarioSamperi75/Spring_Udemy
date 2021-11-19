@@ -2647,3 +2647,72 @@ Contains: Missing org.springframework:spring-webmvc:jar:javadoc:5.3.8.RELEASE
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-19 15:46:57.880
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-19 21:39:42.131
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-19 21:39:42.135
+!MESSAGE classpath=3 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-19 21:39:42.136
+!MESSAGE buffering callback sts4.classpath.nWcNNqyJ spring-security-demo-03-custom-login-form false 3
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-19 21:39:42.138
+!MESSAGE executing callback sts4.classpath.nWcNNqyJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-19 21:39:42.184
+!MESSAGE executing callback sts4.classpath.nWcNNqyJ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-19 21:39:42.597
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-19 21:39:55.961
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-19 21:39:55.966
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-19 21:39:55.970
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-19 21:39:56.326
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-19 21:39:56.330
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-19 21:39:56.334
+!MESSAGE buffering callback sts4.classpath.nWcNNqyJ spring-security-demo-03-custom-login-form false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-19 21:39:56.335
+!MESSAGE executing callback sts4.classpath.nWcNNqyJ 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-19 21:39:56.353
+!MESSAGE executing callback sts4.classpath.nWcNNqyJ SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-19 21:39:58.297
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-19 21:39:58.301
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-19 21:39:58.305
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-19 21:41:18.890
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-19 21:41:18.898
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-19 21:41:18.904
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-11-19 21:54:39.635
+!MESSAGE Unexpected URLConnection defaultUseCaches enabled
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-19 21:54:39.638
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-19 21:54:39.639
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

@@ -1228,3 +1228,21 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2021-11-19 15:46:57,873 [Worker-136: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
 2021-11-19 15:46:57,876 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-11-19 15:46:57,877 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-security-demo-01-base-app\src\main\resources
+2021-11-19 15:46:57,879 [Worker-136: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-19 15:46:57,880 [Worker-136: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-security-demo-01-base-app\src\test\resources
+2021-11-19 21:39:42,595 [Worker-152: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-11-19 21:39:55,138 [Worker-152: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.luv2code:spring-security-demo:1.0 @ C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-security-demo-03-custom-login-form\pom.xml.
+2021-11-19 21:39:55,959 [Worker-152: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-11-19 21:39:55,965 [Worker-152: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-19 21:39:55,967 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-security-demo-03-custom-login-form\src\main\resources
+2021-11-19 21:39:55,969 [Worker-152: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-19 21:39:55,971 [Worker-152: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-security-demo-03-custom-login-form\src\test\resources
+2021-11-19 21:39:58,295 [Worker-150: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-11-19 21:39:58,299 [Worker-150: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-19 21:39:58,302 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-security-demo-03-custom-login-form\src\main\resources
+2021-11-19 21:39:58,305 [Worker-150: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-19 21:39:58,306 [Worker-150: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-security-demo-03-custom-login-form\src\test\resources
+2021-11-19 21:41:18,889 [Worker-154: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2021-11-19 21:41:18,896 [Worker-154: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-19 21:41:18,899 [Worker-154: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-security-demo-03-custom-login-form\src\main\resources
+2021-11-19 21:41:18,903 [Worker-154: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
