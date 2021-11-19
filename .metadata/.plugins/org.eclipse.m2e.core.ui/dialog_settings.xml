@@ -69,7 +69,30 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-security-demo-01-base-app"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemyResources\spring-security-5-demo-starter\spring-security-demo-starter\spring-security-demo-01-base-app"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-hibernate-video-course\spring-security-5-demo-starter\spring-security-demo-starter\spring-security-demo-01-base-app"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>

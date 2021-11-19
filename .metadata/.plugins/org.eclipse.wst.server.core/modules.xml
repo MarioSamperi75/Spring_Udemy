@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <modules>
+  <module moduleId="org.eclipse.jst.jee.server:spring-security-demo-01-base-app" serverId="Tomcat v9.0 Server at localhost (4)"/>
+  <module moduleId="org.eclipse.jst.jee.server:spring-security-demo-02-basic-security" serverId="Tomcat v9.0 Server at localhost (4)"/>
+  <module moduleId="org.eclipse.jst.jee.server:spring-security-demo" serverId="Tomcat v9.0 Server at localhost (4)"/>
   <module moduleId="org.eclipse.jst.jee.server:web-customer-tracker-aop" serverId="Tomcat v9.0 Server at localhost (2)"/>
   <module moduleId="org.eclipse.jst.j2ee.server:mycoolwebapp" serverId="Tomcat v9.0 Server at localhost (3)"/>
   <module moduleId="org.eclipse.jst.jee.server:spring-mvc-demo" serverId="Tomcat v9.0 Server at localhost"/>
