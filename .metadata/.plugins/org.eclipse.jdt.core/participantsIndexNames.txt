@@ -5,6 +5,8 @@ C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.
 \spring-security-demo-04-bootstrap-login-form\src\main\java
 C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2178144631.index
 \web-customer-tracker-aop\src
+C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1552045829.index
+\spring-security-demo-05-logout\src\main\java
 C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4261569207.index
 \web-customer-tracker\src
 C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1514348238.index
