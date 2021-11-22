@@ -3634,3 +3634,66 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-21 22:14:57.448
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:44:05.317
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:44:05.321
+!MESSAGE classpath=3 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:44:05.323
+!MESSAGE buffering callback sts4.classpath.GrJWJrgm spring-security-demo-06-csrf false 3
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:44:05.325
+!MESSAGE executing callback sts4.classpath.GrJWJrgm 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:44:05.347
+!MESSAGE executing callback sts4.classpath.GrJWJrgm SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 09:44:09.205
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 09:44:09.208
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:44:09.606
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:44:09.609
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:44:09.611
+!MESSAGE buffering callback sts4.classpath.GrJWJrgm spring-security-demo-06-csrf false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:44:09.611
+!MESSAGE executing callback sts4.classpath.GrJWJrgm 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:44:09.617
+!MESSAGE executing callback sts4.classpath.GrJWJrgm SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 09:44:10.994
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 09:44:10.996
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 09:44:30.550
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 09:44:30.555
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-11-22 09:49:16.648
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-11-22 09:49:16.650
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2021-11-22 09:49:16.651
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 09:52:54.197
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 09:52:54.201
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
