@@ -10,7 +10,6 @@ INDEX VERSION 1.131+C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.
 1249934673.index
 3623169091.index
 1564908502.index
-278650541.index
 3028503117.index
 3192246303.index
 1855590346.index
