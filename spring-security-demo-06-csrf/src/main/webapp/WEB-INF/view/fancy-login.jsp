@@ -36,9 +36,8 @@
 				<div style="padding-top: 30px" class="panel-body">
 
 					<!-- Login Form -->
-					<!-- we use a regular html form (instead of form:form)  to show the csrf error -->
 					
-					<form action="${pageContext.request.contextPath}/authenticateTheUser" 
+					<form:form action="${pageContext.request.contextPath}/authenticateTheUser" 
 						method="POST" class="form-horizontal">
 
 					    <!-- Place for messages: error, alert etc ... -->
@@ -88,13 +87,8 @@
 								<button type="submit" class="btn btn-success">Login</button>
 							</div>
 						</div>
-						
-						<!-- I'm manually adding tokens -->
-						<input  type="hidden"
-								name="${_csrf.parameterName }"
-								value="${ _csrf.token}"/>
-
-					</form>
+				
+					</form:form>
 
 				</div>
 
