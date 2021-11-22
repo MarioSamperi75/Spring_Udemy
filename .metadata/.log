@@ -3697,3 +3697,21 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 09:52:54.201
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:55:16.205
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.GrJWJrgm
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:55:16.208
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.GrJWJrgm
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:55:16.210
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-22 09:55:16.212
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.GrJWJrgm => OK
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 10:04:39.362
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-22 10:04:39.367
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
