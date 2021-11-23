@@ -4996,3 +4996,90 @@ java.lang.InterruptedException
 
 !ENTRY org.eclipse.wst.server.core 4 0 2021-11-23 11:56:12.262
 !MESSAGE Server Tomcat v9.0 Server at localhost (5) was unable to start within 45 seconds. If the server requires more time, try increasing the timeout in the server editor.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:17.799
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:17.802
+!MESSAGE classpath=4 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:17.803
+!MESSAGE buffering callback sts4.classpath.JQsJdVDB spring-security-demo-09-jdbc-bcrypt false 4
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:17.804
+!MESSAGE executing callback sts4.classpath.JQsJdVDB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:17.844
+!MESSAGE executing callback sts4.classpath.JQsJdVDB SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-23 14:31:23.090
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-23 14:31:23.094
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:23.641
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:23.643
+!MESSAGE classpath=27 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:23.645
+!MESSAGE buffering callback sts4.classpath.JQsJdVDB spring-security-demo-09-jdbc-bcrypt false 27
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:23.646
+!MESSAGE executing callback sts4.classpath.JQsJdVDB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:23.650
+!MESSAGE executing callback sts4.classpath.JQsJdVDB SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-23 14:31:25.003
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-23 14:31:25.007
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:45.349
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JQsJdVDB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:45.350
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.JQsJdVDB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:45.350
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-23 14:31:45.351
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JQsJdVDB => OK
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-23 14:32:18.104
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-23 14:32:18.106
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-23 14:32:55.201
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-11-23 14:32:55.205
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jface 2 0 2021-11-23 14:41:05.219
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-11-23 14:41:05.219
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@478ce286,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@550d9854,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)

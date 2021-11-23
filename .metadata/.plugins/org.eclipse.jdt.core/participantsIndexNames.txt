@@ -3,6 +3,8 @@ C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.
 \spring-mvc-demo\src
 C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3414071368.index
 \spring-security-demo-07 user-roles\src\main\java
+C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2808932448.index
+\spring-security-demo-09-jdbc-bcrypt\src\main\java
 C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3636775408.index
 \spring-security-demo-04-bootstrap-login-form\src\main\java
 C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2178144631.index
