@@ -82,6 +82,9 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\jackson-databinding-json-demo"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\jackson-databinding-json-demo\jackson-databinding-json-demo"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemyResources\jackson-databinding-json-demo\jackson-databinding-json-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-security-demo-01-base-app"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemyResources\spring-security-5-demo-starter\spring-security-demo-starter\spring-security-demo-01-base-app"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-hibernate-video-course\spring-security-5-demo-starter\spring-security-demo-starter\spring-security-demo-01-base-app"/>
