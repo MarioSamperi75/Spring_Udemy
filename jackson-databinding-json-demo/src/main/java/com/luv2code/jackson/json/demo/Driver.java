@@ -22,7 +22,22 @@ public class Driver {
 			//print first name and last name
 			System.out.println("First Name: " + theStudent.getfirstName());
 			System.out.println("Last Name: " + theStudent.getlastName());
-		}
+		
+			
+			//getting nested object by dot notation
+			System.out.println("Street: " + theStudent.getAddress().getStreet());
+			System.out.println("State: " + theStudent.getAddress().getState());
+			
+			//print languages
+			for (String language : theStudent.getLanguages()) {
+				
+				System.out.println(language);
+			}
+		
+			
+		}	
+		
+
 		catch(Exception exc) {
 			exc.printStackTrace();
 		}
