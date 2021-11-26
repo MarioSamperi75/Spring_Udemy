@@ -2750,3 +2750,11 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.servlet
 2021-11-26 20:46:06,991 [Worker-127: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-11-26 20:46:06,991 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-rest-demo\src\main\resources
 2021-11-26 20:46:06,992 [Worker-127: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-26 20:46:06,994 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-rest-demo\src\test\resources
+2021-11-26 20:50:45,728 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-26 20:50:45,729 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-rest-demo\src\main\resources
+2021-11-26 20:50:45,731 [Worker-132: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-26 20:50:45,732 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-rest-demo\src\test\resources
+2021-11-26 20:58:52,972 [Worker-135: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-11-26 20:58:52,973 [Worker-135: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-rest-demo\src\main\resources
+2021-11-26 20:58:52,973 [Worker-135: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

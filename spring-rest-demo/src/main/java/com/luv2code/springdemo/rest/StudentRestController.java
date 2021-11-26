@@ -7,6 +7,7 @@ import javax.annotation.PostConstruct;
 
 import org.apache.catalina.valves.LoadBalancerDrainingValve;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -18,6 +19,7 @@ public class StudentRestController {
 	
 	List<Student> theStudents = new ArrayList<>();
 	
+	// Define PostConstructor to load the student data ONLY ONCE!
 	@PostConstruct
 	public void LoadData() {
 		
@@ -34,5 +36,15 @@ public class StudentRestController {
 	public List<Student> getStudents() {
 		return theStudents;
 	}
+
+	
+	// define endpoint for /student/{studentId} -returns student at index
+	@GetMapping("/students/{studentId}")
+	
+	// the student Id in this case is just the index. Just for now...
+	public Student getStudent(@PathVariable int studentId) {
+		return theStudents.get(studentId);
+	}
+	
 
 }
