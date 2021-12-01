@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\02-dev-tools-demo\src\main\java\com\luv2code\springboot\demo\myspringbootapp\rest\FunRestController.java"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\mycoolapp\pom.xml"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,15 +27,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.luv2code.mycoolwebapp"/>
-			<item value="com.luv2code.mycoolapp"/>
 		</list>
 		<list key="groupId">
-			<item value="com.luv2code"/>
 		</list>
 		<list key="artifactId">
-			<item value="mycoolwebapp"/>
-			<item value="mycoolapp"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -45,7 +41,6 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
-			<item value="1.0"/>
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>
@@ -82,6 +77,10 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\02-dev-tools-demo"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\02-dev-tools-demo"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\myspringbootapp"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\mycoolapp\mycoolapp"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-crm-rest-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-rest-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\jackson-databinding-json-demo"/>
