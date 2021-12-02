@@ -77,8 +77,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\01-spring-boot-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\03-actuator-demo"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\01-spring-boot-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\02-dev-tools-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\myspringbootapp"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\02-dev-tools-demo"/>
