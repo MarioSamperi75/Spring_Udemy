@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="emp	loyee")
+@Table(name="employee")
 public class Employee {
 
 	// define fields
@@ -82,6 +82,8 @@ public class Employee {
 	public void setEmail(String email) {
 		this.email = email;
 	}
+
+
 
 	
 	// define toString
