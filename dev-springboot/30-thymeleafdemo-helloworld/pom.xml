@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.luv2code.springboot</groupId>
-	<artifactId>thymeleafdemo</artifactId>
+	<artifactId>30-thymeleafdemo-helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>thymeleafdemo</name>
 	<description>Demo project for Spring Boot</description>

@@ -77,6 +77,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\thymeleafdemo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\24-spring-data-rest-cruddemo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\24-spring-data-rest-cruddemo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\22-jpa-cruddemo"/>
@@ -91,7 +92,6 @@
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\05-properties-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\03-actuator-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\myspringbootapp"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\02-dev-tools-demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

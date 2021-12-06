@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.springframework.beans.propertyeditors.ClassArrayEditor"/>
     <fullyQualifiedTypeName name="com.luv2code.springdemo.config.DemoAppConfig"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.luv2code.springdemo.entity.Student"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="com.luv2code.springboot.cruddemo.dao.EmployeeRepository"/>
     <fullyQualifiedTypeName name="com.luv2code.springboot.cruddemo.entity.Employee"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+    <fullyQualifiedTypeName name="org.springframework.data.rest.core.annotation.RepositoryRestResource"/>
 </qualifiedTypeNameHistroy>
