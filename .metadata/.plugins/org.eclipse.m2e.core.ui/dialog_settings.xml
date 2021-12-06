@@ -77,6 +77,12 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\24-spring-data-rest-cruddemo"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\24-spring-data-rest-cruddemo"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\22-jpa-cruddemo"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\23-spring-data-jpa-cruddemo"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\21-hibernate-with-service-demo"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\cruddemo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\02-dev-tools-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\01-spring-boot-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot"/>
@@ -86,12 +92,6 @@
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\03-actuator-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\myspringbootapp"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\02-dev-tools-demo"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\mycoolapp\mycoolapp"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-crm-rest-demo"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\spring-rest-demo"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\jackson-databinding-json-demo"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\jackson-databinding-json-demo\jackson-databinding-json-demo"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemyResources\jackson-databinding-json-demo\jackson-databinding-json-demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
