@@ -5,42 +5,35 @@ import java.util.List;
 
 import javax.annotation.PostConstruct;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.luv2code.springboot.thymeleafdemo.entity.Employee;
+import com.luv2code.springboot.thymeleafdemo.service.EmployeeService;
 
 @Controller
 @RequestMapping("/employees")
 public class EmployeeController {
 	
-	//load employee data
+	private EmployeeService employeeService;
 	
-	private List<Employee> theEmployees;
 	
-	@PostConstruct
-	private void loadData() {
-		// create employees
-		Employee emp1 = new Employee(1, "Mario", "Samperi", "mariosss@libero.it");
-		Employee emp2 = new Employee(2, "Ellen", "Bredefeldt", "ellen@libero.it");
-		Employee emp3 = new Employee(3, "Sofia", "Samperi", "sofia@libero.it");
-		
-		// create the list
-		theEmployees = new ArrayList<>();
-		
-		// Add to the list
-		theEmployees.add(emp1);
-		theEmployees.add(emp2);
-		theEmployees.add(emp3);
-		
+	@Autowired
+	public EmployeeController(EmployeeService employeeService) {
+		this.employeeService = employeeService;
 	}
-	
+
+
+
 	//add mapping for "/list"
 	
 	@GetMapping("/list")
 	public String listEmployees (Model theModel) {
+		// get employees from the database
+		List<Employee> theEmployees = employeeService.findAll();
 		
 		// add to the spring model
 		theModel.addAttribute("employees", theEmployees);
