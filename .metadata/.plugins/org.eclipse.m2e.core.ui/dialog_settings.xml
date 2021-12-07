@@ -77,6 +77,10 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\32-thymeleafdemo-employees-list"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\32-thymeleafdemo-employees -list"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\31-thymeleafdemo-helloworld-css"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\30-thymeleafdemo-helloworld"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\thymeleafdemo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\24-spring-data-rest-cruddemo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\24-spring-data-rest-cruddemo"/>
@@ -88,10 +92,6 @@
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\01-spring-boot-demo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\04-command-line-demo"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\03-actuator-demo-with-spring-security"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\05-properties-demo"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\03-actuator-demo"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\myspringbootapp"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

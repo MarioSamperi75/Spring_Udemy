@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+
+	<head>
+		<title>Thymeleaf Demo</title>
+		
+		<!-- reference CSS file -->
+		<link rel="stylesheet"
+				th:href="@{/css/demo.css}">	
+				
+<!-- 
+
+link to bootstrap - example - 
+
+<link rel="stylesheet"
+	th:href="http://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">	 
+	
+ALTERNATIVE: download the file in static and
+
+<link rel="stylesheet"
+	th:href="@{/css/bootstrap.min.css">
+
+-->
+	</head>
+	
+	<body>
+	
+	<p th:text="'Time on the server is: ' + ${theDate}" class="funny" />
+	
+	</body>
+
+</html>
