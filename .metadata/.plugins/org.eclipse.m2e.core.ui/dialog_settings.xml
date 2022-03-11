@@ -46,10 +46,13 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com"/>
 		</list>
 		<list key="name">
+			<item value="Webshop_Springboot-js"/>
 		</list>
 		<list key="artifactId">
+			<item value="Webshop_Springboot-js"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -77,6 +80,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\37-thymeleafdemo-employees-delete"/>
+			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\36-thymeleafdemo-employees-update"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\35-thymeleafdemo-employees-add"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\34-thymeleafdemo-employees-list-db"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\33-thymeleafdemo-employees-list-css"/>
@@ -90,8 +95,6 @@
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\22-jpa-cruddemo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\23-spring-data-jpa-cruddemo"/>
 			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\21-hibernate-with-service-demo"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\cruddemo"/>
-			<item value="C:\Users\mario\Javamapp\12 Mario\SpringBootUdemy\dev-springboot\02-dev-tools-demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

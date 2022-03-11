@@ -1,5 +1,0 @@
-127.0.0.1 - - [05/Aug/2021:12:26:37 +0200] "GET / HTTP/1.1" 404 751
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:12:26:38 +0200] "GET /spring-mvc-demo/ HTTP/1.1" 500 10700
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:12:31:31 +0200] "GET /spring-mvc-demo/ HTTP/1.1" 200 155
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:12:32:36 +0200] "GET /spring-mvc-demo/hello/showForm HTTP/1.1" 200 320
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:12:32:41 +0200] "GET /spring-mvc-demo/hello/processFormVersionThree?studentName=Mario HTTP/1.1" 200 249

@@ -7,6 +7,9 @@
 	<item key="TypeHierarchyViewPart.qualifiednames" value="false"/>
 	<item key="TypeHierarchyViewPart.linkeditors" value="false"/>
 	<item key="TypeHierarchyViewPart.orientation" value="3"/>
+	<item key="org.eclipse.jdt.ui.last.external.project" value="C:\Users\mario\Javamapp\12 Mario\JavaFunctionalProgramming"/>
+	<item key="delegateUpdating" value="false"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\mario\Downloads\openjfx-17.0.2_windows-x64_bin-sdk\javafx-sdk-17.0.2\lib"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -162,7 +165,7 @@
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 	</section>
 	<section name="ClasspathContainerSelectionPage">
-		<item key="index" value="7"/>
+		<item key="index" value="10"/>
 	</section>
 	<section name="AddUnimplementedConstructorsDialog">
 		<item key="OmitCallToSuper" value="false"/>
